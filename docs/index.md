@@ -10,7 +10,7 @@ Avec un retour à la ligne sans saut de ligne.
 Et avec un retour à la ligne avec saut de ligne.
 
 ## Un lien
-Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+Source pour [Lycée Pons/niveau 2nde](https://eurolyceepons.jimdofree.com/seconde/)
 
 ## Une image
 ![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
