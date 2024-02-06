@@ -1,5 +1,5 @@
 # DNL E.P.S. pour le niveau terminale
-## Mobilité ERASMUS+ Belgique ![logo](./images/Erasmus.Jpeg)
+## Mobilité ERASMUS+ Belgique ![logo](./images/Erasmus+.png)
 ### Présentation du projet
 1. Wallons-Bretons, bougeons ensemble !
    
