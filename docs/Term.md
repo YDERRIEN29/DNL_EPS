@@ -3,7 +3,7 @@
 ### *Présentation du projet*
 1. Wallons-Bretons, bougeons ensemble ! ![logo](./Images/IMG_0819.PNG){width=20%}
    
-3. Notre partenaire
+3. Notre partenaire ![logo](./Images/Laberliere.jpeg)
 4. La mobilité
 5. Thématiques étudiées
 
